@@ -1,0 +1,127 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200&family=Square+Peg&display=swap');
+
+/* .input-container{
+    margin-top: 2rem;
+    width: 100%;
+}
+.input{
+
+    width: 40%;
+    padding: 0,5rem;
+    margin-bottom: 1rem;
+} */
+
+
+*{
+    padding: 0;
+    margin: 0;
+}
+
+
+/* *{
+    transition: all 0.25s;
+} */
+
+h1{
+    color: aquamarine;
+   
+    /* font-weight: bolder; */
+    font-size: 5rem;
+    text-align: center;
+    padding: 30px;
+     font-family: 'Manrope';
+    font-family: 'Nova Square', cursive;
+    margin-top: 2rem;
+    font-weight: bolder;
+
+
+}
+
+/* .formulario{
+    display: flex;
+    justify-content: center;
+
+} */
+
+
+#pregunta{
+    border-radius: 7px;
+    height: 11vw;
+    padding-top: 1rem;
+    width: 80vw;
+    text-align: center;
+
+  bottom: 4rem;
+  font-family: 'Manrope', sans-serif;
+
+  font-size: 50px;
+
+  background: white;
+
+}
+
+h4 {
+    color: white;
+    font-size: 30px;
+
+    font-family: 'Manrope', sans-serif;
+    text-align: center;
+    /* position:absolute; */
+    bottom:5px;
+    
+    /* right:10px; */
+}
+
+
+
+.respuestaIngresada{
+    border-radius: 7px;
+    /* border-color: white; */
+    background-color: aquamarine;
+
+    /* padding: 20px 20px; */
+    font-size: 20px;
+
+    width: 80vw;
+    height: 4rem;
+}
+
+#resultado{
+    color: white;
+}
+
+
+.respuestaIngresada:hover{
+    color: grey;
+    transform: scale(1.05);
+    transition: all ease-in-out 1s;
+}
+
+/* svg{
+    width: 4rem;
+    height: 4rem;
+    align-items: center;
+} */
+
+.quiz{
+  display: flex;
+  justify-content: center;
+  background-color:  rgb(29, 26, 26);
+}
+
+.contador{
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+}
+
+/* .header{
+     display: flex;
+    align-items: center;
+    width:100%;
+    background-color: #3a3a3a;
+    padding-bottom: 10px; 
+} */
+
+#colorbar{
+    background-color: aquamarine;
+}
